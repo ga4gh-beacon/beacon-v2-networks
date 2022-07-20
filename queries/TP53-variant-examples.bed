@@ -1,0 +1,16 @@
+track name=DEL visibility=squish description="DEL variants" color=51,160,255
+#chrom	chromStart	chromEnd	label
+17	7438503	8115886	HCC78
+17	7570152	8144202	HCC38
+17	7675361	7676734	Calu-3
+17	6282341	8595256	UM-SCC-104
+track name=DUP visibility=squish description="DUP variants" color=255,198,51
+#chrom	chromStart	chromEnd	label
+17	7354709	7671298	HAL
+track name=SNV visibility=squish description="SNVs" color=238,0,221
+#chrom	chromStart	chromEnd	label
+17	7674858	7674859	VCV000630765
+17	7673700	7673701	VCV000633606
+17	7674199	7674200	VCV000376622
+17	7669692	7669693	VCV000141332
+17	7669626	7669627	VCV000156517
