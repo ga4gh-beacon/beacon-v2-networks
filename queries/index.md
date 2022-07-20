@@ -14,5 +14,9 @@ Range Query](http://docs.genomebeacons.org/variant-queries/#beacon-range-queries
 represents a nice real-world test case in which both genomic variation matching
 as well as different filter types can be tested.
 
-* [TP53 variant examples](TP53-variant-examples.md)
-* [UCSC browser tracks](http://genome.ucsc.edu/cgi-bin/hgTracks?org=human&db=hg38&position=chr17:7668421-7687490&hgt.customText=https://raw.githubusercontent.com/ga4gh-beacon/beacon-v2-networks/main/queries/TP53-variant-examples.bed)
+We have selected a number of TP53 variants, both SNVs from ClinVar as well as
+CNVs from cell lines:
+
+* some TP53 information and variant examples [with descriptions](TP53-variant-examples.md) and [as `.bed` file](TP53-variant-examples.bed)
+* display of the variants from the `.bed` file as [UCSC browser tracks](http://genome-euro.ucsc.edu/cgi-bin/hgTracks?org=human&db=hg38&position=chr17:7668421-7687490&hgt.customText=https://raw.githubusercontent.com/ga4gh-beacon/beacon-v2-networks/main/queries/TP53-variant-examples.bed)
+
