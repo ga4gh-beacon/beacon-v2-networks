@@ -1,10 +1,12 @@
 ## TP53 variants
 
-TP53 location NCBI: NC_000017.11 (7668421..7687490, complement)
+TP53 location (CDR; GRCh38): NC_000017.11 (7668421..7687490, complement)
 
 ##### TP53 SNVs in cancer cell lines
 
 ClinVar TP53 variants in cell lines: 7669626..7676483
+
+**Please be aware that thise are the 1-based positions**
  
 | Variant name      | Position |  ClinVar accession | Associated disease |
 | ----------- | ----------- | ----------- | ----------- |
