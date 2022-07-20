@@ -10,7 +10,7 @@ chr17	7354709	7671298	HAL	CVCL_D788	Osteosarcoma cell line
 track name=SNV type=bedDetail visibility=pack description="SNVs" color=238,0,221 url="https://www.ncbi.nlm.nih.gov/clinvar/variation/$$"
 #chrom	chromStart	chromEnd	name	id	label
 chr17	7674858	7674859	VCV000630765	VCV000630765	Li-Fraumeni syndrome, Neoplasm of ovary, Hereditary cancer-predisposing syndrome
-chr17	7673700	7673701	VCV000633606	VCV000633606	Li-Fraumeni syndrome
-chr17	7674199	7674200	VCV000376622	VCV000376622	Li-Fraumeni syndrome, various cancer types
-chr17	7669692	7669693	VCV000141332	VCV000141332	Hereditary cancer-predisposing syndrome
-chr17	7669626	7669627	VCV000156517	VCV000156517	Li-Fraumeni syndrome 1
+chr17	7673699	7673700	VCV000633606	VCV000633606	Li-Fraumeni syndrome
+chr17	7674198	7674199	VCV000376622	VCV000376622	Li-Fraumeni syndrome, various cancer types
+chr17	7669691	7669692	VCV000141332	VCV000141332	Hereditary cancer-predisposing syndrome
+chr17	7669625	7669626	VCV000156517	VCV000156517	Li-Fraumeni syndrome 1
