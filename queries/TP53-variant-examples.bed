@@ -1,13 +1,13 @@
-track name=DEL type=bedDetail visibility=squish description="DEL variants" color=51,160,255
+track name=DEL type=bedDetail description="DEL variants" color=51,160,255
 #chrom	chromStart	chromEnd	name	id	label
 chr17	7438503	8115886	HCC78	CVCL_1	Lung adenocarcinoma cell line
 chr17	7570152	8144202	HCC38	CVCL_2	Breast ductal carcinoma cell line
 chr17	7675361	7676734	Calu-3	CVCL_3	Lung adenocarcinoma cell line 
 chr17	6282341	8595256	UM-SCC-104	CVCL_4	Squamous cell carcinoma  cell line
-track name=DUP type=bedDetail visibility=squish description="DUP variants" color=255,198,51
+track name=DUP type=bedDetail description="DUP variants" color=255,198,51
 #chrom	chromStart	chromEnd	name	id	label
 chr17	7354709	7671298	HAL	CVCL_5	Osteosarcoma cell line
-track name=SNV type=bedDetail url="https://www.ncbi.nlm.nih.gov/clinvar/variation/$$"" visibility=squish description="SNVs" color=238,0,221
+track name=SNV type=bedDetail url="https://www.ncbi.nlm.nih.gov/clinvar/variation/$$" description="SNVs" color=238,0,221
 #chrom	chromStart	chromEnd	name	id	label
 chr17	7674858	7674859	VCV000630765	Li-Fraumeni syndrome, Neoplasm of ovary, Hereditary cancer-predisposing syndrome
 chr17	7673700	7673701	VCV000633606	VCV000633606	Li-Fraumeni syndrome
