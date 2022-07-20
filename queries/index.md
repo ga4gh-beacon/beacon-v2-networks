@@ -23,7 +23,6 @@ CNVs from cell lines:
 
 ### Any variant overlap with TP53 CDR - Range Query
 
-
 #### Using `referenceName` with genome specific refseqId
 
 ##### GET
@@ -48,7 +47,7 @@ CNVs from cell lines:
     },
     "query": {
         "requestParameters": {
-            "referenceName": "referenceName=NC_000017.11",
+            "referenceName": "NC_000017.11",
             "start": [7668420],
             "end": [7687490]
         }
@@ -68,3 +67,4 @@ CNVs from cell lines:
 * Should we even support this? It is like v1; but the use of the `referenceName` parameter is
 ill-defined in the (e.g. _17_ or _chr17_?)
 
+### More TBD
